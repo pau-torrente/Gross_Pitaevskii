@@ -1,2 +1,3 @@
-# Gross_Pitaevskii
- Gross-Pitaevskii simulation of 87Rb atoms in python. Project for the many body QM course at physics UB
+# treball-GP
+
+Python code to simulate a bose-einstein condensate with rigid-sphere-interaction inside an harmonic trap using the Gross-Pitaevskii equation.
